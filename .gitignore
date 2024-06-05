@@ -1,0 +1,5 @@
+docker/data/mysql
+docker/data/redis
+.env
+project/vendor
+project/log.txt
